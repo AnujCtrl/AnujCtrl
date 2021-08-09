@@ -14,7 +14,7 @@
 </td>
 
 <td align="center" width="50%">
-<img height=60px src="https://www.freeiconspng.com/img/28389"> 
+<img height=60px src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg"> 
 </td>
 </tr>
 </tbody>
@@ -35,7 +35,8 @@
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
 </td>
-   
+</tr>   
+<tr>  
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> 
 </td>
@@ -47,15 +48,16 @@
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> 
 </td>
-   
+</tr> 
+<tr>  
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
   
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> 
 </td>  
-  
 </tr>
+
 
 
  
