@@ -59,27 +59,21 @@
 <img height=100px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
 </td>
 </tr>
+ 
 <tr>
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
 </td>
- <td align="center" width="33%">
+<td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> 
 </td>
- <td align="center" width="33%">
-<img height=100px src="https://getlogo.net/supabase-logo-vector-svg"> 
+<td align="center" width="33%">
+<img height=100px src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light-rounded-corner-background.svg"> 
 </td>
 </tr> 
-
- 
-
-
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
-<tr>
- 
- </tr>
 </tbody>
 </table>
 
