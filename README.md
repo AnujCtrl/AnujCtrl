@@ -71,6 +71,16 @@
 <img height=100px src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light-rounded-corner-background.svg"> 
 </td>
 </tr> 
+ 
+ <tr>
+<td align="center" width="33%">
+<img height=100px src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"> 
+</td>
+<td align="center" width="33%">
+<img height=100px src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/d888bd29160bae58c38e9f71af4a21c71715d5e4/icons/file_type_glsl.svg"> 
+</td>
+
+</tr> 
 
 </tbody>
 </table>
