@@ -80,6 +80,9 @@
 <img height=100px src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/d888bd29160bae58c38e9f71af4a21c71715d5e4/icons/file_type_glsl.svg"> 
 </td>
 
+  <td align="center" width="33%">
+<img height=100px src="https://github.com/gilbarbara/logos/blob/master/logos/vitejs.svg"> 
+</td>
 </tr> 
 
 </tbody>
