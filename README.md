@@ -74,13 +74,13 @@
  
  <tr>
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
+<img height=100px src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=100px src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light-rounded-corner-background.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
 </td>
 </tr> 
  
