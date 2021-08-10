@@ -96,6 +96,13 @@
 <img height=100px src="https://github.com/gilbarbara/logos/blob/master/logos/vitejs.svg"> 
 </td>
 </tr> 
+ 
+ <tr>
+<td align="center" width="33%">
+<img height=100px src="https://raw.githubusercontent.com/simple-icons/simple-icons/d8eec4c81ee0cd32e0424c48ae17185f00a05fe6/icons/p5dotjs.svg"> 
+</td>
+
+</tr>
 
 </tbody>
 </table>
