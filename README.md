@@ -25,7 +25,7 @@
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<img height=100px src="https://raw.githubusercontent.com/simple-icons/simple-icons/d8eec4c81ee0cd32e0424c48ae17185f00a05fe6/icons/p5dotjs.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -98,9 +98,7 @@
 </tr> 
  
  <tr>
-<td align="center" width="33%">
-<img height=100px src="https://raw.githubusercontent.com/simple-icons/simple-icons/d8eec4c81ee0cd32e0424c48ae17185f00a05fe6/icons/p5dotjs.svg"> 
-</td>
+
 
 </tr>
 
