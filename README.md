@@ -115,10 +115,10 @@
  <a href="https://twitter.com/Anujpatil3">
   <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="www.linkedin.com/in/anuj-patil-0366981b4">
+<a href="www.linkedin.com/in/anuj-patil-69">
   <img align="left" alt="Anuj's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/bapuz">
+<a href="https://github.com/AnujCtr;">
   <img align="left" alt="Anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/anuj_z.jpg">
@@ -127,7 +127,7 @@
 <br><br>
 
 #### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/bapuz/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/AnujCtrl/count.svg)
 
 
 
