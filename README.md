@@ -1,109 +1,18 @@
-### Hello World, I'm Anuj 
+# Anuj
 
 
------
-#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
+⤷ I am a highly skilled and experienced backend developer with a strong background in React and TypeScript. I have a deep understanding of web development and am well-versed in various programming languages and technologies, including JavaScript, Node.js, and MongoDB. My experience working with React 
 
-### My skills :man_technologist:
-- **Competitive Coding**
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
+ <a aligh="left" href="https://www.linkedin.com/in/anujpatil69" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
 
-<td align="center" width="50%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
+⚐ Based in Mumbai
 
-- **Technologies**
-<table>
-<tbody>
- <tr>
-<td align="center" width="33%">
-<img height=100px src="https://raw.githubusercontent.com/simple-icons/simple-icons/d8eec4c81ee0cd32e0424c48ae17185f00a05fe6/icons/p5dotjs.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"> 
-</td>
-
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
-</tr>   
-<tr>  
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"> 
-</td>
- 
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"> 
-  
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> 
-</td>  
-</tr>
-<tr>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"> 
-</td>
- <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/mapbox/mapbox-ar21.svg"> 
-</td>
- <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"> 
-</td>
-</tr>
- 
-<tr>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=100px src="https://raw.githubusercontent.com/supabase/supabase/master/web/static/supabase-light-rounded-corner-background.svg"> 
-</td>
-</tr> 
- 
- <tr>
-<td align="center" width="33%">
-<img height=100px src="https://upload.vectorlogo.zone/logos/threejs/images/3453d6aa-b9c2-48b3-b2c1-97aa80b5525e.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/google_maps/google_maps-ar21.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
-</tr> 
- 
- <tr>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-ar21.svg"> 
-</td>
-<td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> 
-</td>
-
-  <td align="center" width="33%">
-<img height=100px src="https://github.com/gilbarbara/logos/blob/master/logos/vitejs.svg"> 
-</td>
-</tr> 
- 
- <tr>
+ϟ Currently Working as backend developer
 
 
-</tr>
 
-</tbody>
-</table>
+ ## Skills
+   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://nextjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/nextjs.svg" alt="NextJS" width="25" height="25" /></a> <a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/mui.svg" alt="Material UI" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://graphql.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/graphql.svg" alt="GraphQL" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> 
 
 <br>
 <p align="center">
@@ -111,20 +20,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnujCtrl&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
-<br> <br>
- <a href="https://twitter.com/Anujpatil3">
-  <img align="left" alt="Anuj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="www.linkedin.com/in/anuj-patil-69">
-  <img align="left" alt="Anuj's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/AnujCtr;">
-  <img align="left" alt="Anuj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/anuj_z.jpg">
-  <img align="left" alt="Anuj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br><br>
 
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/AnujCtrl/count.svg)
